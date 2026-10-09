@@ -121,9 +121,3 @@ pip install -r requirements.txt
 2. Open `01_retainiq_analysis.ipynb` and run all cells.
 
 **Outputs:** `data/features_segments.csv` (customer features and segments) and `data/priority_customers.csv` (top 50 customers to contact).
-
----
-
-## Author
-
-**Anjali Aggarwal**, B.Tech CSE (Artificial Intelligence) · [GitHub](https://github.com/ANJALI198114)
