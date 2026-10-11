@@ -43,6 +43,20 @@
 
 ## Results
 
+## Interactive dashboard
+
+Explore the segments, filter by churn risk, download a call list, and simulate a retention campaign.
+
+**[Live demo](https://retainiq-churn-dashboard.streamlit.app/)**
+
+![Dashboard](images/dashboard.jpg)
+![Campaign simulator](images/simulator.jpg)
+
+Run locally:
+
+    pip install streamlit
+    streamlit run app/app.py
+
 ### Segments (K-Means, k = 4)
 
 ![Customer segments](images/segments_pca.png)
